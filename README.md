@@ -20,11 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](screenshot.png)
+![](Screenshot%20of%20%20mobile%20screen.png)
 
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/Avizaz040/Web-dev-practice.git)
+- Solution URL: [Github link](https://github.com/Avizaz040/Web-dev-practice.git)
 
 ## My process
 
@@ -49,7 +50,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I want to do some project where the responsiveness is necessary in a web page, this type of projects helps me to learn "how a web page is responsive in different devices".
+I want to do some project where the responsiveness is necessary in a web page, this type of projects helps me to learn "how make a responsive web site in different devices".
 
 ## Author
 
